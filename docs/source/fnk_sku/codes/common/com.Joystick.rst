@@ -35,7 +35,7 @@ Component List
 .. |Resistor-10kΩ| image:: ../_static/imgs/Resistor-10kΩ.png
      :width: 20%
 .. |joystick| image:: ../_static/imgs/joystick.png
-     :width: 50%
+     :width: 40%
 .. |ADC-module-1| image:: ../_static/imgs/ADC-module-1.png
 .. |ADC-module-2| image:: ../_static/imgs/ADC-module-2.png
 

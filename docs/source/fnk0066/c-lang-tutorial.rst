@@ -58,4 +58,4 @@ C language tutorial
    codes/c-lang/RFID
    codes/c-lang/Soldering a Circuit Board
    codes/common/Other Components
-   codes/common/What's Next?
+   codes/c-lang/WhatsNext.rst

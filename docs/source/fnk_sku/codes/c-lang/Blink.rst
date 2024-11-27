@@ -101,7 +101,7 @@ then LED turns OFF, which is followed by a delay. Repeat the loop, then LED will
     :language: C
     :lines: 16-27
 
-
+.. include:: ../common/com.freenove_car.rst
 
 .. toctree:: 
     :includehidden:

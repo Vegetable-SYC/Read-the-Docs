@@ -1,13 +1,26 @@
 
-###########################
+######################################################
 freenove documentation for raspberry pi starter kit
-###########################
+######################################################
 
 .. :doc:`/fnk0020/fnk0020`
 
 .. :doc:`/fnk0066/fnk0066`
 
 .. :doc:`/fnk0097/fnk0097`
+.. toctree::
+   :maxdepth: 1
+   :caption: WELCOME
+   :glob:
+
+   product_list/products/welcome.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: PRODUCT LIST
+   :glob:
+
+   product_list/products/list.rst
 
 .. toctree::
    :maxdepth: 1
@@ -22,7 +35,6 @@ freenove documentation for raspberry pi starter kit
    :glob:
    
    fnk0020/fnk0020.rst
-   usage
    
 
 

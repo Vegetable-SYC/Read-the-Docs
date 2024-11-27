@@ -34,7 +34,7 @@ Breadboard Power Module
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
 .. |Resistor-10kΩ| image:: ../_static/imgs/Resistor-10kΩ.png
-    :width: 30%
+    :width: 10%
 .. |power-module| image:: ../_static/imgs/power-module.png
     :width: 60%
 .. |ADC-module-1| image:: ../_static/imgs/ADC-module-1.png
@@ -45,7 +45,7 @@ Breadboard Power Module
 .. |Rotary-potentiometer| image:: ../_static/imgs/Rotary-potentiometer.png
     :width: 70%
 .. |L2983_chip| image:: ../_static/imgs/L2983_chip.png
-    :width: 40%
+    :width: 30%
 .. |DC_Motor_Module| image:: ../_static/imgs/DC_Motor_Module.png
     :width: 50%
 

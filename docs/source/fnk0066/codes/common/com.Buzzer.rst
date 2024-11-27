@@ -36,11 +36,11 @@ We will make a doorbell with this functionality: when the Push Button Switch is 
 +-----------------------------------------------------------+
 
 .. |jumper-wire| image:: ../_static/imgs/jumper-wire.png
-    :width: 50%
+    :width: 60%
 .. |Resistor-1kΩ| image:: ../_static/imgs/Resistor-1kΩ.png
     :width: 18%
 .. |Resistor-10kΩ| image:: ../_static/imgs/Resistor-10kΩ.png
-    :width: 15%
+    :width: 10%
 .. |button-small| image:: ../_static/imgs/button-small.jpg
     :width: 30%
 .. |Active-buzzer| image:: ../_static/imgs/Active-buzzer.png

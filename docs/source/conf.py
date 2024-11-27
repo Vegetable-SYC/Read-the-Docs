@@ -126,7 +126,7 @@ html_css_files = [
 ]
 
 intersphinx_mapping = {
-    "rpi-starter-kit": ("https://docs.freenove.com/projects/rpi-starter-kit/en/latest/", None),
+    "rpi-starter-kit": ("https://read-the-docs-syc.readthedocs.io/en/latest/", None),
 }
 intersphinx_disabled_reftypes = ["*"]
 
