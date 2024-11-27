@@ -31,11 +31,41 @@ freenove documentation for raspberry pi starter kit
 
 .. toctree::
    :maxdepth: 1
+   :caption: FNK0025
+   :glob:
+   
+   fnk0020/fnk0020.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: FNK0024
+   :glob:
+
+   fnk0066/fnk0066.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: FNK0023
+   :glob:
+   
+   fnk0020/fnk0020.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: FNK0022
+   :glob:
+
+   fnk0066/fnk0066.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: FNK0020
    :glob:
    
    fnk0020/fnk0020.rst
-   
 
-
+.. toctree::
+   :maxdepth: 1
+   :caption: FNK0019
+   :glob:
 

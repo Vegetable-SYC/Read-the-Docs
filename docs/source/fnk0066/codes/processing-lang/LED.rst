@@ -352,3 +352,5 @@ The function mouseClicked() in this code is used to capture the mouse click even
     :linenos: 
     :language: java
     :lines: 27-29
+
+.. include:: ../common/com.freenove_car.rst
