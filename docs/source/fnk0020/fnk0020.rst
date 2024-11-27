@@ -1,0 +1,10 @@
+##############################################################################
+Freenove Ultimate Starter Kit for Raspberry Pi
+##############################################################################
+
+
+.. toctree::
+   :titlesonly:
+    
+   codes/c-lang/Blink.rst
+   codes/c-lang/ButtonAndLEDs.rst
