@@ -1,0 +1,3 @@
+[submodule "docs/source/freenove_kit"]
+	path = docs/source/freenove_kit
+	url = https://github.com/Vegetable-SYC/freenove_Kit
