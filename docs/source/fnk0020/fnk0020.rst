@@ -10,3 +10,4 @@ Freenove Ultimate Starter Kit for Raspberry Pi
    python-tutorial.rst
    processing-tutorial.rst
    java-tutorial.rst
+   scratch-tutorial.rst

@@ -15,3 +15,4 @@ Select the language you want to use.
    python-tutorial.rst
    processing-tutorial.rst
    java-tutorial.rst
+   scratch-tutorial.rst
