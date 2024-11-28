@@ -311,3 +311,5 @@ Make the LED turn on and off once every 1 second, repeat this process, and print
     :linenos: 
     :language: java
     :lines: 21-28
+
+.. include:: ../common/com.freenove_car.rst

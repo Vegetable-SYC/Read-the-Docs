@@ -21,5 +21,5 @@ support@freenove.com
 
 
 
-.. |fnkxxxx| replace:: fnk0066
-.. |product_name| replace:: Freenove_Complete_Starter_Kit_for_Raspberry_Pi
+.. |fnkxxxx| replace:: fnk0023
+.. |product_name| replace:: Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi

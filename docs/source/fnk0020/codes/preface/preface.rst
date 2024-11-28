@@ -22,4 +22,4 @@ support@freenove.com
 
 
 .. |fnkxxxx| replace:: fnk0020
-.. |product_name| replace:: Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi
+.. |product_name| replace:: Freenove Super Starter Kit for Raspberry Pi

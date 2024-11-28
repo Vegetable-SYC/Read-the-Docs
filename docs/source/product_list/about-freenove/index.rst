@@ -64,13 +64,13 @@ Copyright
 *********
 All the files, materials and instructional guides provided are released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. A copy of this license can be found in the folder containing the Tutorial and software files associated with this product.
 
-.. image:: ../../fnk_sku/codes/_static/1.png
+.. image:: ../../fnk_sku/codes/_static/products/1.png
 
 This means you can use these resource in your own derived works, in part or completely, but NOT for the intent or purpose of commercial use.
 
 Freenove brand and logo are copyright of Freenove Creative Technology Co., Ltd. and cannot be used without written permission.
 
-.. image:: ../../fnk_sku/codes/_static/2.jpg
+.. image:: ../../fnk_sku/codes/_static/products/2.jpg
  
 Raspberry Pi® is a trademark of Raspberry Pi Foundation (https://www.raspberrypi.org/).
 
