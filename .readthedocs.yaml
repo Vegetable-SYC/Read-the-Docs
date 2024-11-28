@@ -5,9 +5,6 @@ build:
   tools:
     python: "mambaforge-22.9"
 
-conda:
-  environment: environment.yml
-
 python:
   install:
     - requirements: docs/requirements.txt
