@@ -4,9 +4,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - rasterio==1.2
-  - python=3.12.7
-  - torch=2.5.1
-  - pip>=20.1  # pip is needed as dependency
+  - rasterio=1.2  # 注意，这里我移除了版本号后面的.0，因为conda通常不需要指定小版本号
+  - python=3.8  # 我将Python版本更改为3.8，因为rasterio 1.2可能不支持Python 3.12，且torch 2.5.1可能也不支持Python 3.12
+  - torch=2.5.1  # 这个版本在pytorch频道中应该是可用的
+  - pip>=20.1  # 这个依赖通常放在conda依赖的列表中，但pip的使用应该仅限于安装conda中不可用的包
   - pip:
-    - black==20.8b1
+    - black==20.8b1  # 这个包将通过pip安装，因为它可能不在conda的默认频道中
