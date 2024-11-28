@@ -58,5 +58,6 @@ sphinxcontrib-serializinghtml==2.0.0
 sphinx-markdown-tables==0.0.17
 urllib3==1.26.9
     # via requests
-
+mamba == 0.11.3
+conda == 24.9.2
 myst_parser==4.0.0
