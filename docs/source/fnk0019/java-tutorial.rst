@@ -29,7 +29,6 @@ java tutorial
    codes/java-lang/ADC.rst
    codes/java-lang/Photoresistor&LED.rst
    codes/java-lang/Thermistor.rst
-   codes/java-lang/Joystick.rst
    codes/java-lang/Motor&Driver.rst
    codes/java-lang/74HC595&Bar_Graph_LED.rst
    codes/java-lang/74HC595&LED_Matrix.rst

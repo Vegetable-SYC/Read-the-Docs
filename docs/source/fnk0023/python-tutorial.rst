@@ -7,13 +7,13 @@ Python language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../fnk_sku/codes/preface/python_preface.rst
+   ../codes/preface/python_preface.rst
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../fnk_sku/codes/preface/python_preparation.rst
+   ../codes/preface/python_preparation.rst
 
 
 .. toctree::

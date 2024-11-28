@@ -8,14 +8,14 @@ C language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../fnk_sku/codes/preface/c_preface.rst
+   ../codes/preface/c_preface.rst
 
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../fnk_sku/codes/preface/c_preparation.rst
+   ../codes/preface/c_preparation.rst
 
 .. toctree::
    :numbered:
@@ -31,7 +31,7 @@ C language tutorial
    codes/c-lang/ADC.rst
    codes/c-lang/Potentiometer & LED.rst
    codes/c-lang/Potentiometer & RGBLED.rst
-   codes/c-lang/Photoresistor & LED
+   codes/c-lang/Photoresistor & LED.rst
    codes/c-lang/Thermistor.rst
    codes/c-lang/Joystick.rst
    codes/c-lang/Motor & Driver.rst
@@ -44,9 +44,9 @@ C language tutorial
    codes/c-lang/LCD1602.rst
    codes/c-lang/Hygrothermograph DHT11.rst
    codes/c-lang/Matrix Keypad.rst
-   codes/c-lang/Infrared Motion Sensor
+   codes/c-lang/Infrared Motion Sensor.rst
    codes/c-lang/Ultrasonic Ranging.rst
-   codes/c-lang/Attitude Sensor MPU6050
-   codes/c-lang/Soldering a Circuit Board
-   codes/common/Other Components
-   codes/common/What's Next?
+   codes/c-lang/Attitude Sensor MPU6050.rst
+   codes/c-lang/Soldering a Circuit Board.rst
+   codes/common/Other Components.rst
+   codes/c-lang/WhatsNext.rst

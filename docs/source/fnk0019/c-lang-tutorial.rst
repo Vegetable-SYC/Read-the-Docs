@@ -30,12 +30,12 @@ C language tutorial
    codes/c-lang/Buzzer.rst
    codes/c-lang/ADC.rst
    codes/c-lang/Potentiometer & LED.rst
-   codes/c-lang/Photoresistor & LED
+   codes/c-lang/Photoresistor & LED.rst
    codes/c-lang/Thermistor.rst
    codes/c-lang/Motor & Driver.rst
    codes/c-lang/74HC595 & Bar Graph LED.rst
    codes/c-lang/74HC595 & 7-Segment Display.rst
    codes/c-lang/74HC595 & LED Matrix.rst
    codes/c-lang/LCD1602.rst
-   codes/common/Other Components
+   codes/common/Other Components.rst
    codes/c-lang/WhatsNext.rst

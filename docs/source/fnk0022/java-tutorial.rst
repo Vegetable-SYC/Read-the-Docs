@@ -7,13 +7,13 @@ java tutorial
    :titlesonly:
    :caption: Preface
 
-   ../fnk_sku/codes/preface/java_preface.rst
+   ../codes/preface/java_preface.rst
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../fnk_sku/codes/preface/java_preparation.rst
+   ../codes/preface/java_preparation.rst
 
 .. toctree::
    :numbered:

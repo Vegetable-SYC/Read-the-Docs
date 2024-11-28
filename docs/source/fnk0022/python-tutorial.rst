@@ -7,13 +7,13 @@ Python language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../fnk_sku/codes/preface/python_preface.rst
+   ../codes/preface/python_preface.rst
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../fnk_sku/codes/preface/python_preparation.rst
+   ../codes/preface/python_preparation.rst
 
 
 .. toctree::
@@ -28,4 +28,4 @@ Python language tutorial
    codes/python-lang/RGB LED.rst
    codes/python-lang/Buzzer.rst
    codes/python-lang/Web IoT.rst
-   codes/common/WhatsNext.rst
+   codes/python-lang/WhatsNext.rst
