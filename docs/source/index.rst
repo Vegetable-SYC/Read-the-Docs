@@ -34,28 +34,28 @@ freenove documentation for raspberry pi starter kit
    :caption: FNK0025
    :glob:
    
-   fnk0020/fnk0020.rst
+   fnk0025/fnk0025.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: FNK0024
    :glob:
 
-   fnk0066/fnk0066.rst
+   fnk0024/fnk0024.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: FNK0023
    :glob:
    
-   fnk0020/fnk0020.rst
+   fnk0023/fnk0023.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: FNK0022
    :glob:
 
-   fnk0066/fnk0066.rst
+   fnk0022/fnk0022.rst
 
 .. toctree::
    :maxdepth: 1
@@ -68,4 +68,6 @@ freenove documentation for raspberry pi starter kit
    :maxdepth: 1
    :caption: FNK0019
    :glob:
+
+   fnk0019/fnk0019.rst
 
