@@ -27,57 +27,6 @@ def apend_to_file(file_path, content):
     with open(file_path, "a") as file:
         file.write(content)
 
-# os.system("rm -r fnk0019/codes/*")
-# os.system("cp -r fnk_sku/codes/ fnk0019/")
-# apend_to_file("fnk0019/codes/preface/preface.rst",
-#               ".. |fnkxxxx| replace:: fnk0019\n")
-# apend_to_file("fnk0019/codes/preface/preface.rst",
-#               ".. |product_name| replace:: Freenove Super Starter Kit for Raspberry Pi\n")
-
-# os.system("rm -r fnk0020/codes/*")
-# os.system("cp -r fnk_sku/codes/ fnk0020/")
-# apend_to_file("fnk0020/codes/preface/preface.rst",
-#               ".. |fnkxxxx| replace:: fnk0020\n")
-# apend_to_file("fnk0020/codes/preface/preface.rst",
-#               ".. |product_name| replace:: Freenove Super Starter Kit for Raspberry Pi\n")
-
-# os.system("rm -r fnk0022/codes/*")
-# os.system("cp -r fnk_sku/codes/ fnk0022/")
-# apend_to_file("fnk0022/codes/preface/preface.rst",
-#               ".. |fnkxxxx| replace:: fnk0022\n")
-# apend_to_file("fnk0022/codes/preface/preface.rst",
-#               ".. |product_name| replace:: Freenove_Complete_Starter_Kit_for_Raspberry_Pi\n")
-
-# os.system("rm -r fnk0023/codes/*")
-# os.system("cp -r fnk_sku/codes/ fnk0023/")
-# apend_to_file("fnk0023/codes/preface/preface.rst",
-#               ".. |fnkxxxx| replace:: fnk0023\n")
-# apend_to_file("fnk0023/codes/preface/preface.rst",
-#               ".. |product_name| replace:: Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi\n")
-
-# os.system("rm -r fnk0024/codes/*")
-# os.system("cp -r fnk_sku/codes/ fnk0024/")
-# apend_to_file("fnk0024/codes/preface/preface.rst",
-#               ".. |fnkxxxx| replace:: fnk0024\n")
-# apend_to_file("fnk0024/codes/preface/preface.rst",
-#               ".. |product_name| replace:: Freenove_Complete_Starter_Kit_for_Raspberry_Pi\n")
-
-
-# os.system("rm -r fnk0025/codes/*")
-# os.system("cp -r fnk_sku/codes/ fnk0025/")
-# apend_to_file("fnk0025/codes/preface/preface.rst",
-#               ".. |fnkxxxx| replace:: fnk0025\n")
-# apend_to_file("fnk0025/codes/preface/preface.rst",
-#               ".. |product_name| replace:: Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi\n")
-
-# os.system("rm -r fnk0066/codes/*")
-# os.system("cp -r fnk_sku/codes/ fnk0066/")
-# apend_to_file("fnk0066/codes/preface/preface.rst",
-#               ".. |fnkxxxx| replace:: fnk0066\n")
-# apend_to_file("fnk0066/codes/preface/preface.rst",
-#               ".. |product_name| replace:: Freenove_Complete_Starter_Kit_for_Raspberry_Pi\n"
-#               )
-
 # extlinks = {
 #     "fnk0020_github_url": (
 #         "https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi%s",
@@ -100,13 +49,9 @@ version = "v1.0"
 
 # extensions = []
 extensions = [
-    "sphinx.ext.duration",
-    "sphinx.ext.doctest",
     "sphinx_rtd_theme",
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
-    'sphinx_markdown_tables',
-    'recommonmark',
 ]
 
 templates_path = ["_templates"]
