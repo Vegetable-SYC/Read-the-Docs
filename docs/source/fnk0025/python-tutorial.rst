@@ -46,4 +46,4 @@ Python language tutorial
    codes/python-lang/Ultrasonic Ranging.rst
    codes/python-lang/RFID.rst
    codes/python-lang/Web IoT.rst
-   codes/python-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

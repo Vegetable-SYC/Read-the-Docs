@@ -31,4 +31,4 @@ Processing (java language) tutorial
    codes/processing-lang/Oscilloscope.rst
    codes/processing-lang/SnakeGame.rst
    codes/processing-lang/TetrisGame.rst
-   codes/processing-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

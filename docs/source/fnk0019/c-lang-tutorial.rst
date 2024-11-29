@@ -38,4 +38,4 @@ C language tutorial
    codes/c-lang/74HC595 & LED Matrix.rst
    codes/c-lang/LCD1602.rst
    codes/common/Other Components.rst
-   codes/c-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

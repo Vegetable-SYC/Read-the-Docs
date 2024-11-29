@@ -38,4 +38,4 @@ java tutorial
    codes/java-lang/74HC595&LED_Matrix.rst
    codes/java-lang/LCD1602.rst
    codes/java-lang/Ultrasonic_Ranging.rst
-   codes/java-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

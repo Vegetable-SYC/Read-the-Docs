@@ -47,4 +47,4 @@ C language tutorial
    codes/c-lang/Ultrasonic Ranging.rst
    codes/c-lang/RFID
    codes/common/Other Components
-   codes/c-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

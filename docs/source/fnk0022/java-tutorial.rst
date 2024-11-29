@@ -26,4 +26,4 @@ java tutorial
    codes/java-lang/Analog&PWM.rst
    codes/java-lang/RGBLED.rst
    codes/java-lang/Buzzer.rst
-   codes/java-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

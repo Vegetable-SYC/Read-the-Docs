@@ -42,4 +42,4 @@ Processing (java language) tutorial
    codes/processing-lang/PongGame.rst
    codes/processing-lang/SnakeGame.rst
    codes/processing-lang/TetrisGame.rst
-   codes/processing-lang/What's Next?.rst
+   codes/common/What's Next?.rst

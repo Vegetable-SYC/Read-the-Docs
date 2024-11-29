@@ -43,4 +43,4 @@ Python language tutorial
    codes/python-lang/LCD1602.rst
    codes/python-lang/Ultrasonic Ranging.rst
    codes/python-lang/Web IoT.rst
-   codes/python-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

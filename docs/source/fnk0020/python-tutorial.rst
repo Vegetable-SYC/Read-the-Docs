@@ -49,4 +49,4 @@ Python language tutorial
    codes/python-lang/Web IoT.rst
    codes/python-lang/Soldering a Circuit Board.rst
    codes/python-lang/Other Components.rst
-   codes/python-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

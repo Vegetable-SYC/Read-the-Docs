@@ -33,4 +33,4 @@ C language tutorial
    codes/c-lang/Photoresistor & LED.rst
    codes/c-lang/Thermistor.rst
    codes/c-lang/LCD1602.rst
-   codes/c-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

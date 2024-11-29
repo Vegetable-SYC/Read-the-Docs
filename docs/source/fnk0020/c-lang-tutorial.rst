@@ -49,4 +49,4 @@ C language tutorial
    codes/c-lang/Attitude Sensor MPU6050.rst
    codes/c-lang/Soldering a Circuit Board.rst
    codes/common/Other Components.rst
-   codes/c-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

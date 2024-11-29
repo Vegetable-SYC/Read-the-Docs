@@ -37,4 +37,4 @@ Python language tutorial
    codes/python-lang/74HC595 & LED Matrix.rst
    codes/python-lang/LCD1602.rst
    codes/python-lang/Web IoT.rst
-   codes/python-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

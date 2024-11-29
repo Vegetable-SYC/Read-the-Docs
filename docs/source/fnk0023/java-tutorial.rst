@@ -30,4 +30,4 @@ java tutorial
    codes/java-lang/Photoresistor&LED.rst
    codes/java-lang/Thermistor.rst
    codes/java-lang/LCD1602.rst
-   codes/java-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

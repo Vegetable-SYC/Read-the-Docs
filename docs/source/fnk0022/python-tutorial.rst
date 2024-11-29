@@ -28,4 +28,4 @@ Python language tutorial
    codes/python-lang/RGB LED.rst
    codes/python-lang/Buzzer.rst
    codes/python-lang/Web IoT.rst
-   codes/python-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst

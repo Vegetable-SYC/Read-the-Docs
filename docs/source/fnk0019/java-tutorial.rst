@@ -33,4 +33,4 @@ java tutorial
    codes/java-lang/74HC595&Bar_Graph_LED.rst
    codes/java-lang/74HC595&LED_Matrix.rst
    codes/java-lang/LCD1602.rst
-   codes/java-lang/WhatsNext.rst
+   codes/common/WhatsNext.rst
