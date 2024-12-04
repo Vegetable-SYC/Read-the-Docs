@@ -8,14 +8,14 @@ C language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../codes/preface/c_preface.rst
+   codes/preface/c_preface.rst
 
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/c_preparation.rst
+   codes/preface/c_preparation.rst
 
 .. toctree::
    :numbered:
@@ -33,4 +33,4 @@ C language tutorial
    codes/c-lang/Photoresistor & LED.rst
    codes/c-lang/Thermistor.rst
    codes/c-lang/LCD1602.rst
-   codes/common/WhatsNext.rst
+   codes/c-lang/WhatsNext.rst

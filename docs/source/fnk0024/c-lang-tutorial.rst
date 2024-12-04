@@ -8,14 +8,14 @@ C language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../codes/preface/c_preface.rst
+   codes/preface/c_preface.rst
 
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/c_preparation.rst
+   codes/preface/c_preparation.rst
 
 .. toctree::
    :numbered:
@@ -43,5 +43,5 @@ C language tutorial
    codes/c-lang/74HC595 & LED Matrix.rst
    codes/c-lang/LCD1602.rst
    codes/c-lang/Ultrasonic Ranging.rst
-   codes/common/Other Components
-   codes/common/WhatsNext.rst
+   codes/c-lang/Other Components
+   codes/c-lang/WhatsNext.rst

@@ -6,7 +6,7 @@ Processing (java language) tutorial
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/processing_preparation.rst
+   codes/preface/processing_preparation.rst
 
 .. toctree::
    :numbered:
@@ -40,4 +40,4 @@ Processing (java language) tutorial
    codes/processing-lang/PongGame.rst
    codes/processing-lang/SnakeGame.rst
    codes/processing-lang/TetrisGame.rst
-   codes/common/WhatsNext.rst
+   codes/processing-lang/WhatsNext.rst

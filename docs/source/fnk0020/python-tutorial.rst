@@ -7,13 +7,13 @@ Python language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../fnk_sku/codes/preface/python_preface.rst
+   codes/preface/python_preface.rst
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/python_preparation.rst
+   codes/preface/python_preparation.rst
 
 
 .. toctree::
@@ -49,4 +49,4 @@ Python language tutorial
    codes/python-lang/Web IoT.rst
    codes/python-lang/Soldering a Circuit Board.rst
    codes/python-lang/Other Components.rst
-   codes/common/WhatsNext.rst
+   codes/python-lang/WhatsNext.rst

@@ -8,14 +8,14 @@ C language tutorial
    :titlesonly:
    :caption: Preface
 
-   ../codes/preface/c_preface.rst
+   codes/preface/c_preface.rst
 
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
    
-   ../codes/preface/c_preparation.rst
+   codes/preface/c_preparation.rst
 
 .. toctree::
    :numbered:
@@ -57,5 +57,5 @@ C language tutorial
    codes/c-lang/BMP180 Barometric Pressure Sensor
    codes/c-lang/RFID
    codes/c-lang/Soldering a Circuit Board
-   codes/common/Other Components
-   codes/common/WhatsNext.rst
+   codes/c-lang/Other Components
+   codes/c-lang/WhatsNext.rst
